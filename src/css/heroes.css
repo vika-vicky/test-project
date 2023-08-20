@@ -1,0 +1,10 @@
+.hero {
+    background-color: aqua;
+    padding: 40px;
+}
+
+.hero-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
